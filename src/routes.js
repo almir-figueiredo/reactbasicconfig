@@ -1,8 +1,8 @@
 // rename routes as previously defined
 import { Switch, Route, BrowserRouter } from "react-router-dom";
 
-import route1 from ".pages/route1";
-import route2 from ".pages/route2";
+import route1 from "./pages/route1";
+import route2 from "./pages/route2";
 
 export default function Routes() {
   return (
